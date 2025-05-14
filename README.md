@@ -1,6 +1,4 @@
 # Bank_loan_Dashboard
-I'm thrilled to share my latest data project: a Bank Loan Performance Dashboard built entirely in Microsoft Excel, focusing on powerful KPI tracking and loan portfolio analysis!
-
 🔍 What’s Inside?
 
 Summary dashboard with key loan KPIs:
